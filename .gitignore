@@ -5,6 +5,17 @@ data/
 nav
 tags
 
+# my gitignore
+.venv/
+__pycache__/
+models/
+results/
+*.log
+*.safetensors
+*.pth
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
